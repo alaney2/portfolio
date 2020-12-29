@@ -16,6 +16,7 @@ html {
 img{
   width: 560px;
 	height: 315px;
+  border-radius: 25%
 }
 .prof-box {
 	width: 400px;
@@ -136,4 +137,3 @@ li {
   50% { color: #d2dde6; }
   100% { color: #fbdfff; }
 }
-
